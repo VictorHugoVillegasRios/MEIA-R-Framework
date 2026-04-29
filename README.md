@@ -7,8 +7,6 @@
 👉 [Resumen Ejecutivo](docs/ResumenEjecutivo.pdf)  
 👉 [Dashboard Ejecutivo](dashboards/DashboardEjecutivo.pbix)  
 
-*(Estos enlaces deben apuntar a los archivos que subas en tu repositorio, ajusta las rutas según corresponda.)*
-
 ---
 
 ## 📌 Descripción
