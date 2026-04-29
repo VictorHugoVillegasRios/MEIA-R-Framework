@@ -3,6 +3,14 @@
 
 ---
 
+## 📥 Acceso directo:
+👉 [Resumen Ejecutivo](docs/ResumenEjecutivo.pdf)  
+👉 [Dashboard Ejecutivo](dashboards/DashboardEjecutivo.pbix)  
+
+*(Estos enlaces deben apuntar a los archivos que subas en tu repositorio, ajusta las rutas según corresponda.)*
+
+---
+
 ## 📌 Descripción
 La metodología **MEIA‑R** representa un avance significativo en la Evaluación de Impacto Ambiental (EIA) al incorporar la **resiliencia ecosistémica** como modulador dinámico del impacto.  
 Este enfoque permite una valoración más **precisa, realista y territorialmente diferenciada**, integrando ciencia ecológica con herramientas modernas de análisis de datos.
@@ -61,7 +69,8 @@ La metodología MEIA‑R está diseñada para ser aplicada en **empresas, ONGs e
 
 ## 📌 Contacto
 👤 **Víctor Hugo Villegas Ríos**  
-🌍 Consultor Freelance en Analisis y Ciencia de Datos  
+🌍 Consultor Freelance | Ciencia de Datos | Power BI | Evaluación Ambiental  
 🔗 LinkedIn: https://www.linkedin.com/in/victorhugovillegasrios/  
 
 ---
+
