@@ -4,8 +4,10 @@
 ---
 
 ## 📘 Acceso directo
-- 👉 [Resumen Ejecutivo (PDF)](./docs/Resumen_Ejecutivo.pdf)  
-- 👉 [Dashboard Ejecutivo (Power BI)](./Dashboard_Ejecutivo.pbix)  
+- 👉 [Resumen Ejecutivo (PDF)](docs/Resumen_Ejecutivo.pdf)  
+- 👉 [Metodología completa (PDF)](docs/PDF_Metodologia_MEIA-R.pdf)  
+- 👉 [Dashboard Ejecutivo (Power BI)](dashboards/Dashboard_Ejecutivo.pbix)  
+- 👉 [Código de automatización (Python)](code/Codigo-MEIA-R-VFinal.py)  
 
 ---
 
@@ -52,3 +54,5 @@ La integración de ciencia ecológica, analítica de datos, automatización e in
 **Víctor Hugo Villegas Ríos**  
 Consultor Freelance en Ciencia de Datos y Gestión Ambiental  
 🔗 [LinkedIn](https://www.linkedin.com/in/victorhugovillegasrios/)  
+
+
