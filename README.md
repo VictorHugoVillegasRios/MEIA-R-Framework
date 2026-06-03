@@ -3,12 +3,6 @@
 
 ---
 
-## 📥 Acceso directo:
-👉 [Resumen Ejecutivo](docs/ResumenEjecutivo.pdf)  
-👉 [Dashboard Ejecutivo](dashboards/DashboardEjecutivo.pbix)  
-
----
-
 ## 📌 Descripción
 La metodología **MEIA‑R** representa un avance significativo en la Evaluación de Impacto Ambiental (EIA) al incorporar la **resiliencia ecosistémica** como modulador dinámico del impacto.  
 Este enfoque permite una valoración más **precisa, realista y territorialmente diferenciada**, integrando ciencia ecológica con herramientas modernas de análisis de datos.
