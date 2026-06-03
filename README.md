@@ -6,7 +6,7 @@
 ## 📘 Acceso directo
 - 👉 [Resumen Ejecutivo (PDF)](docs/Resumen_Ejecutivo.pdf)  
 - 👉 [Metodología completa (PDF)](docs/PDF_Metodologia_MEIA-R.pdf)  
-- 👉 [Dashboard Ejecutivo (Power BI)](dashboards/MEIA-R-VF.pdf)  
+- 👉 [Dashboard Ejecutivo (Power BI)](dashboards/MEIA_R-VF.pdf)  
 - 👉 [Código de automatización (Python)](code/Codigo-MEIA-R-VFinal.py)  
 
 ---
