@@ -1,7 +1,3 @@
-<p align="center">
-<img src="assets/hero.png" alt="MEIA-R Framework" width="100%">
-</p>
-
 # 🌿 Metodología MEIA-R  
 **Framework de Evaluación de Impacto Ambiental con Resiliencia Ecosistémica, Analítica de Datos e Inteligencia Territorial**
 
